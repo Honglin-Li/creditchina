@@ -99,20 +99,6 @@ def _regdb(args):
 
 
 
-"""
-Normolize the dataframe by considering sign and absolute max boundry.
-
-Parameters
-----------
-df : DataFrame
-    
-Returns
-----------
-DataFrame
-"""
-
-
-
 def _createdb(args):
     """
     Create the final dataset.
